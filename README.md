@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img alt="curso" title="curso" src=".github/2013_Treinamento_Scrum.png" />
+  <img alt="curso" title="curso" src=".github/2013_Treinamento_Scrum.png" width="200" />
 </h1>
 
 <h1 align="center">
-  <img alt="curso" title="curso" src=".github/2014_ASP.NET_ MVC.png" />
+  <img alt="curso" title="curso" src=".github/2014_ASP.NET_ MVC.png" width="200" />
 </h1>
 
 <h1 align="center">
