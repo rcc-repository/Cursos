@@ -1,13 +1,13 @@
 <h1 align="center">
-  <img alt="curso" title="curso" src=".github/2013_Treinamento_Scrum.png" width="200" />
+  <img alt="curso" title="curso" src=".github/2013_Treinamento_Scrum.png" width="50%" />
 </h1>
 
 <h1 align="center">
-  <img alt="curso" title="curso" src=".github/2014_ASP.NET_ MVC.png" width="200" />
+  <img alt="curso" title="curso" src=".github/2014_ASP.NET_ MVC.png" width="50%" />
 </h1>
 
 <h1 align="center">
-  <img alt="curso" title="curso" src=".github/2014_C#_OO.png" />
+  <img alt="curso" title="curso" src=".github/2014_CSharp_OO.png" />
 </h1>
 
 <h1 align="center">
