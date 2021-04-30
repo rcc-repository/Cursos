@@ -1,6 +1,4 @@
-<h1 align="center">
-   🚀 Metodologias
-</h1>
+<h1 align="center"> 🚀 Metodologias </h1>
 
 <br/>
 
