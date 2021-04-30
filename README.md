@@ -1,5 +1,5 @@
 <h1 align="center">
-  <p  background-color: #082767> 🚀 Metodologias </p>
+   🚀 Metodologias
 </h1>
 
 <br/>
