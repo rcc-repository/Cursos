@@ -1,5 +1,4 @@
 <h1 align="center"> 🚀 Metodologias </h1>
-
 <br/>
 
 <h1 align="center">
@@ -7,11 +6,7 @@
 </h1>
 
 <br/>
-
-<h1 align="center">
-  <p> 🚀 Dev Web .NET </p>
-</h1>
-
+<h1 align="center"> 🚀 Dev Web .NET </h1>
 <br/>
 
 <h1 align="center">
@@ -27,11 +22,7 @@
 </h1>
 
 <br/>
-
-<h1 align="center">
-  <p> 🚀 Dev Web SPA </p>
-</h1>
-
+<h1 align="center"> 🚀 Dev Web SPA </h1>
 <br/>
 
 <!-- <h1 align="center">
