@@ -8,6 +8,8 @@
   <img alt="curso" title="curso" src=".github/2013_Treinamento_Scrum.png" width="70%" />
 </h1>
 
+<br/>
+
 <h1 align="center">
   <p> 🚀 Dev Web .NET </p>
 </h1>
@@ -25,6 +27,8 @@
 <h1 align="center">
   <img alt="curso" title="curso" src=".github/2020_Iniciando_Com_NetCore.png" width="70%" />
 </h1>
+
+<br/>
 
 <h1 align="center">
   <p> 🚀 Dev Web SPA </p>
