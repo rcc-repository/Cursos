@@ -1,4 +1,6 @@
-<h1 margin: auto> 🚀 Metodologias </h1>
+<h1 align="center">
+  <p> 🚀 Metodologias </p>
+</h1>
 
 <br/>
 
