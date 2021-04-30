@@ -1,5 +1,4 @@
-
-## 🚀 Metodologias
+<h1> ## 🚀 Metodologias </h1>
 
 <h1 align="center">
   <img alt="curso" title="curso" src=".github/2013_Treinamento_Scrum.png" width="70%" />
@@ -20,7 +19,7 @@
   <img alt="curso" title="curso" src=".github/2020_Iniciando_Com_NetCore.png" width="70%" />
 </h1>
 
-## 🚀 Dev Web SPA
+<h1> ## 🚀 Dev Web SPA </h1>
 
 <!-- <h1 align="center">
   <img alt="curso" title="curso" src=".github/2019_JavaScript_Experts.png" width="70%" />
