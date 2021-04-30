@@ -1,7 +1,5 @@
 
-<div style="background-color: red">
-  🚀 Metodologias
-</div>  
+<h1 align="center"> 🚀 Metodologias </h1>
 
 <br/>
 
