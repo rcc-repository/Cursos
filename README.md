@@ -34,10 +34,12 @@
   <img alt="curso" title="curso" src=".github/2020_Do_While.png" width="70%" />
 </h1>
 
+<!--
 <br/>
 <h1 align="center"> 🚀 Metodologias </h1>
 <br/>
 
+<!--
 <h1 align="center">
   <img alt="curso" title="curso" src=".github/2013_Treinamento_Scrum.png" width="70%" />
 </h1>
